@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">U930指示灯控制</string>
+    <string name="action_settings">关于</string>
+    <string name="View_text">键盘灯、LED指示灯控制</string>
+    <string name="View_text2">LED指示灯</string>
+    <string name="View3_text">U930指示灯控制 1.0\n\n版权所有 Mosajon 2016-2017\n\nhttp://weibo.com/mosajon</string>
+    <string name="txtKeyOpen">打开键盘灯</string>
+    <string name="txtKeyClose">关闭键盘灯</string>
+    <string name="txtGreenOpen">打开绿灯</string>
+    <string name="txtGreenClose">关闭绿灯</string>
+    <string name="txtRedOpen">打开红灯</string>
+    <string name="txtRedClose">关闭红灯</string>
+</resources>
